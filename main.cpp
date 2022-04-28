@@ -34,6 +34,8 @@ int main()
      Observer B hat neuen Zustand: TestData
     */
 
+    //Halli Hallo
+
     return 0;
 
 }
